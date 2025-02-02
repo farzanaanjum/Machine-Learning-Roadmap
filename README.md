@@ -1,4 +1,5 @@
 # Machine-Learning-Roadmap
 Watch more on Machine Learning Roadmap - https://www.youtube.com/shorts/UUUWRXEx8qE
 
-![Machine Learning Roadmap](https://github.com/user-attachments/assets/1175e4d7-169a-45a9-ab41-77a718648a59)
+![ML Roadmap](https://github.com/user-attachments/assets/d6c8cee0-0a8f-496c-bc45-1a709936b49d)
+
